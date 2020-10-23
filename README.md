@@ -1,6 +1,6 @@
 # Inclusivité ou pas inclusivité
 
-Est-ce que moi équipe peut accueillir une développeuse ?
+Est-ce que mon équipe peut accueillir une développeuse ?
 
 ## Pourquoi ?
 
