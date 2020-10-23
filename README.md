@@ -1,16 +1,11 @@
-# Pokemon or Big Data
+# Inclusivité ou pas inclusivité
 
-Is this a Pokemon or some kind of Big Data technology ?
+Est-ce que moi équipe peut accueillir une développeuse ?
 
-## Why ?
+## Pourquoi ?
 
-Because it is fun. Inspired by this [Google Doc form][1].
+Parce que j'en ai marre d'entendre dire que les filles doivent "oser la tech" et qu'il faut aussi penser à faire des espaces inclusifs.
 
-## How ?
+## Comment ?
 
-This also was a sandbox to try [React][2] and [npm as a build tool][3].
-
-
-[1]: https://docs.google.com/a/octo.com/forms/d/1kckcq_uv8dk9-W5rIdtqRwCHN4Uh209ELPUjTEZJDxc/viewform
-[2]: http://facebook.github.io/react/index.html
-[3]: http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/
+Ce repo est forké de [Pokemon or big data](https://github.com/pixelastic/pokemonorbigdata) (oui oui)
