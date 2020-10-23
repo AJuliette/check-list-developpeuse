@@ -49,3 +49,6 @@ body {
 .answer-next {
   text-align:center;
 }
+.tada {
+  background-image: url("../img/taga.png");
+}
