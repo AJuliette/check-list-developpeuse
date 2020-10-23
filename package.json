@@ -8,7 +8,9 @@
     "type": "git",
     "url": "ssh://git@github.com:AJuliette/check-list-developpeuse.git"
   },
-  "scripts": {
+  "bugs": {
+    "url": "https://github.com/AJuliette/check-list-developpeuse/issues"
+  },  "scripts": {
     "build": "./scripts/build",
     "deploy": "./scripts/deploy",
     "serve": "./scripts/serve"
