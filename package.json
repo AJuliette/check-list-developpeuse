@@ -1,15 +1,12 @@
 {
-  "name": "pokemonorbigdata",
+  "name": "check-list-developpeuse",
   "version": "0.0.1",
-  "description": "Is this Pokemon or Big Data ?",
-  "author": "Tim \"pixelastic\" Carry",
+  "description": "Est-ce que mon équipe peut accueillir une développeuse ?",
+  "author": "Juliette \"code: pixelastic",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com:pixelastic/pokemonorbigdata.git"
-  },
-  "bugs": {
-    "url": "https://github.com/pixelastic/pokemonorbigdata/issues"
+    "url": "ssh://git@github.com:AJuliette/check-list-developpeuse.git"
   },
   "scripts": {
     "build": "./scripts/build",
