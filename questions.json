@@ -1,37 +1,86 @@
 [
   {
-    "name": "Est-ce qu'il y a une poubelle (avec couvercle) dans les toilettes ?",
+    "name": "Il y a une poubelle (avec couvercle) dans les toilettes.",
     "url": "#",
     "type": 1,
     "text": "Certaines femmes pouvant être réglées, il vaut mieux pour tout le monde qu'elles aient un endroit où jeter leur protection hygiénique usagée.",
     "img": "."
   },
   {
-    "name": "Est-ce qu'il y a un endroit personnel où elle peut ranger ses protections hygiéniques ?",
+    "name": "Il y a un endroit personnel où elle peut ranger ses protections hygiéniques.",
     "url": "#",
     "type": 1,
-    "text": "Un peu d'intimité et ne pas avoir à partager où on en est dans son cycle avec tout l'open space c'est pas plus mal.",
+    "text": "Certaines femmes pouvant être réglées, un peu d'intimité et ne pas avoir à partager où on en est dans son cycle avec tout l'open space c'est pas plus mal.",
     "img": "."
   },
   {
-    "name": "Est-ce que les documents et outils de travail partagés contiennent des images pornographiques ?",
+    "name": "Les documents et outils de travail partagés contiennent des images pornographiques.",
     "url": "#",
     "type": 0,
     "text": "Un petit tour des tchats et des bases de données de travail pour vérifier que tout est en règle ne fait pas de mal (section: 'Votre employé peut vous surprendre')",
     "img": "."
   },
   {
-    "name": "Est-ce que je reprends mon collègue qui fait une blague sexiste ?",
+    "name": "Je reprends mon collègue qui fait une blague sexiste.",
     "url": "#",
     "type": 1,
-    "text": "Jean-Michel qui compare les femmes à des lave-vaisselles ça va bien cinq minutes.",
+    "text": "Pour toi, ça sera peut-être la première remarque sexiste de la semaine, pour elle, le chiffre peut être plus élevé. Jean-Michel qui compare les femmes à des lave-vaisselles ça va bien cinq minutes.",
     "img": "."
   },
   {
-    "name": "Est-ce qu'il y a un règlement intérieur qui permet de qualifier et sanctionner un acte sexiste / du harcèlement sexuel ?",
+    "name": "Il y a un règlement intérieur qui permet de qualifier et sanctionner un acte sexiste / du harcèlement sexuel.",
     "url": "#",
     "type": 1,
-    "text": "Le vivre ensemble se passe encore mieux quand on a établi des règles communes sur lesquelles tout le monde est raccord :)",
+    "text": "Le vivre ensemble se passe encore mieux quand on a établi des règles communes sur lesquelles tout le monde est informé et raccord :)",
+    "img": "."
+  },
+  {
+    "name": "Je suis prêt à lui communiquer honnêtement mon salaire.",
+    "url": "#",
+    "type": 1,
+    "text": "À responsabilité et poste équivalents, les inégalités salariales sont encore bien présentes en France. En lui révélant ton salaire, tu vas peut-être lui permettre de réparer une injustice.",
+    "img": "."
+  },
+  {
+    "name": "Il m'arrive de dire 'sexy' à une collègue si je la trouve bien habillée ou bien maquillée.",
+    "url": "#",
+    "type": 0,
+    "text": "Ça dépend de votre relation, mais à part si vous êtes super potes, ça peut être malaisant.",
+    "img": "."
+  },
+  {
+    "name": "Je pense que les femmes, biologiquement, ne sont pas intéressées par le code ou ne sont pas faites pour ça.",
+    "url": "#",
+    "type": 0,
+    "text": "Breaking news: c'est non.",
+    "img": "."
+  },
+  {
+    "name": "L'offre d'emploi comprend 'prend ta bite et ton couteau'.",
+    "url": "#",
+    "type": 0,
+    "text": "En étant plus généraliste: une offre d'emploi doit être pensée et réfléchie pour ne pas exclure la moitié de l'humanité par ses choix de mots ou expressions.",
+    "img": "."
+  },
+  {
+    "name": "Il y a des memes de Trump sur le mur.",
+    "url": "#",
+    "type": 0,
+    "text": "Dans ce cas particulier, Trump est un prédateur sexuel qui pense qu'il faut 'attraper une femme par la ch*tte', ça peut retourner le coeur de voir sa tête tous les jours. De manière générale: est-ce que la déco est 'neutre' et pas trop 'entre geeks'?",
+    "img": "."
+  },
+  {
+    "name": "Il y a une femme en lingerie en fond d'écran de l'ordinateur d'un de mes collègues.",
+    "url": "#",
+    "type": 0,
+    "text": "Les femmes sont déjà suffisament sexualisées par les pubs dans la rue pour ne pas tomber sur ça en passant derrière l'ordi d'un collègue, non ?",
+    "img": "."
+  },
+  {
+    "name": "Il y a des femmes à des postes de prise de décision.",
+    "url": "#",
+    "type": 1,
+    "text": "Women belong in all places decisions are being made. - Ruth Bader Ginsburg",
     "img": "."
   }
 ]
